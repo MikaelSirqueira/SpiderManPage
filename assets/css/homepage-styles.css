@@ -184,3 +184,7 @@ body[id^="spider-"] .s-card:not(.s-card--hovered) {
   transform-style: preserve-3d;
   transition: transform 0.4s ease-in;
 }
+
+.s-descriptioin {
+  
+}
